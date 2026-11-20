@@ -55,7 +55,8 @@ In the above PDF document you will find the two (2) links for downloading the af
 
 The ISOT Botnet dataset is the combination of several existing publicly available malicious and non-malicious datasets.
 
-https://www.uvic.ca/engineering/ece/isot/datasets/botnet-ransomware/index.php
+~~https://www.uvic.ca/engineering/ece/isot/datasets/botnet-ransomware/index.php~~
+https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/botnet-and-ransomware-detection-datasets/
 
 ## [↑](#table-of-contents) Malicious URLs Dataset
 
