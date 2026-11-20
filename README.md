@@ -70,7 +70,8 @@ The ISOT Cloud IDS (ISOT CID) dataset consists of over 8Tb data collected in a r
 
 _"The dataset cannot be downloaded directly. Instead you need first to fill an agreement about how the data will be used;"_
 
-https://www.uvic.ca/engineering/ece/isot/datasets/cloud-security/index.php
+~~https://www.uvic.ca/engineering/ece/isot/datasets/cloud-security/index.php~~
+https://onlineacademiccommunity.uvic.ca/isot/2022/11/25/cloud-security-datasets/
 
 ## [↑](#table-of-contents) Dynamic Malware Analysis Kernel and User-Level Calls
 
